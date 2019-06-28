@@ -2,7 +2,11 @@
 // const fs = require('fs');
 
 module.exports = {
-    plugins: [ '@vuepress/blog', '@vuepress/back-to-top' ],
+    // plugins: [ '@vuepress/blog', '@vuepress/back-to-top' ],
+    plugins: [ '@vuepress/plugin-back-to-top' ],
+    globalUIComponents: [
+        'BackToTop'
+    ],
     permalink: "/:year/:month/:day/:slug",
     title: 'zzz\'s blog',
     port: 2333,
