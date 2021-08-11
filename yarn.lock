@@ -696,9 +696,9 @@
     source-map "^0.7.3"
     vue-template-es2015-compiler "^1.6.0"
 
-"@vuepress/plugin-back-to-top@^1.0.0-alpha.0":
-  version "1.0.0-alpha.0"
-  resolved "http://registry.npm.taobao.org/@vuepress/plugin-back-to-top/download/@vuepress/plugin-back-to-top-1.0.0-alpha.0.tgz#401513b39d5dd081f49404c35ab6f51002c1cca0"
+"@vuepress/plugin-back-to-top@^1.0.0-rc.1":
+  version "1.8.2"
+  resolved "https://registry.yarnpkg.com/@vuepress/plugin-back-to-top/-/plugin-back-to-top-1.8.2.tgz#e9794409d1d589e4952b0700291270d2696e6d01"
   dependencies:
     lodash.debounce "^4.0.8"
 
@@ -4779,8 +4779,8 @@ path-key@^2.0.0, path-key@^2.0.1:
   resolved "http://registry.npm.taobao.org/path-key/download/path-key-2.0.1.tgz#411cadb574c5a140d3a4b1910d40d80cc9f40b40"
 
 path-parse@^1.0.6:
-  version "1.0.6"
-  resolved "http://registry.npm.taobao.org/path-parse/download/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
 
 path-type@^1.0.0:
   version "1.1.0"
